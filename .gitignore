@@ -1,0 +1,9 @@
+# secrets — never commit these
+.env
+token.json
+*.secret
+
+# python
+__pycache__/
+*.pyc
+.venv/

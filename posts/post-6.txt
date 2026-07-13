@@ -1,0 +1,20 @@
+3 weeks of experiments with Claude. Here is what stayed.
+
+My daily loop now (I drew it — see the picture):
+
+1. Read the ticket. Write 5 clear lines about what I want.
+2. Claude makes a plan. I check it hard.
+   ← this step is where the real engineering happens.
+3. It codes and tests. I review like a strict senior.
+4. Ship.
+
+My 2 rules. I never break them:
+
+Rule 1: If I can't explain the code, I don't ship it.
+Rule 2: The clearer I ask, the better it works.
+
+Save the map. Steal the loop. It's yours.
+
+This series was fun. What should I experiment with next? 👇
+
+#ClaudeCode #AI #SoftwareEngineering #Workflow #TechEgypt

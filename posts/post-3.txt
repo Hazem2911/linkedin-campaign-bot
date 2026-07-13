@@ -1,0 +1,20 @@
+Claude wrote 400 lines for me. I deleted every single one.
+
+Not because the code was bad. It was clean.
+
+Because I asked for the wrong thing.
+
+I said: "add caching."
+I never said what to cache. Or for how long. Or where.
+
+So I got a beautiful answer
+to a question nobody asked.
+
+Now I write 5 short lines before every prompt:
+what I want, where it goes, and what "done" means.
+
+400 lines deleted. 38 lines shipped. Lesson learned forever.
+
+What's your worst "I asked wrong" story? 👇
+
+#AI #ClaudeCode #SoftwareEngineering #LessonsLearned #TechEgypt

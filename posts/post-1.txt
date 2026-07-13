@@ -1,0 +1,18 @@
+I gave Claude one of my tickets. The full ticket. For 3 days.
+
+Day 1 — I wrote what I want in plain words. It made a plan.
+Day 2 — It wrote the code. And its own tests.
+Day 3 — I reviewed everything. Fixed 2 small things. Shipped.
+
+My time: about 4 hours.
+My old way: 2 full days.
+
+The big surprise?
+My job did not disappear.
+It moved. From typing... to thinking and reviewing.
+
+I'm an intern. This was scary to try. I'm glad I did.
+
+Would you give AI a full ticket? Honest answers 👇
+
+#SoftwareEngineering #AI #ClaudeCode #Internship #TechEgypt

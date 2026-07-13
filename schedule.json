@@ -1,0 +1,62 @@
+{
+  "timezone": "Africa/Cairo",
+  "posting_time_local": "09:05",
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Experiment",
+      "date": "2026-07-19",
+      "caption_file": "posts/post-1.txt",
+      "image": "images/post-1-the-experiment.png",
+      "alt": "3-day diary timeline: I gave Claude a full ticket. 4 hours with Claude vs 2 days my old way."
+    },
+    {
+      "id": 2,
+      "title": "The Receipt",
+      "date": "2026-07-22",
+      "caption_file": "posts/post-2.txt",
+      "image": "images/post-2-the-receipt.png",
+      "alt": "A paper receipt listing the hours Claude saved me in one week. Total: 11.5 hours."
+    },
+    {
+      "id": 3,
+      "title": "The Fail",
+      "date": "2026-07-26",
+      "caption_file": "posts/post-3.txt",
+      "image": "images/post-3-the-fail.png",
+      "alt": "Code diff: 400 lines deleted, 38 lines shipped. The bug was my prompt."
+    },
+    {
+      "id": 4,
+      "title": "The Translator",
+      "date": "2026-07-29",
+      "caption_file": "posts/post-4.txt",
+      "image": "images/post-4-the-translator.png",
+      "alt": "A vague client message translated by Claude into three clear requirements."
+    },
+    {
+      "id": 5,
+      "title": "The Trend",
+      "date": "2026-08-02",
+      "caption_file": "posts/post-5.txt",
+      "image": "images/post-5-the-trend.png",
+      "alt": "Bar chart: AI fixing real GitHub bugs went from about 4 percent in 2023 to about 90 percent in 2026."
+    },
+    {
+      "id": 6,
+      "title": "The Map",
+      "date": "2026-08-05",
+      "caption_file": "posts/post-6.txt",
+      "image": "images/post-6-the-map.png",
+      "alt": "Hand-drawn map of my daily loop with Claude, plus my two rules."
+    },
+    {
+      "id": 7,
+      "title": "The Reveal",
+      "date": "2026-08-09",
+      "caption_file": "posts/post-7.txt",
+      "image": "images/post-7-the-reveal.png",
+      "alt": "Plot twist: AI made this whole series, including the bot that published this post."
+    }
+  ]
+}

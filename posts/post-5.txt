@@ -1,0 +1,19 @@
+In 2023, AI could fix almost zero real GitHub bugs.
+
+In 2026, Claude fixes about 9 out of 10.
+
+Three years. That's all it took. (see the chart)
+
+I'm not sharing this to scare anyone.
+I'm sharing it because the junior job is changing NOW:
+
+Typing code → worth less every month.
+Knowing WHAT to build and WHY → worth more. Fast.
+
+My plan as an intern:
+get better at reviewing, writing clear specs,
+and asking better questions.
+
+What's your plan? Serious question 👇
+
+#AI #FutureOfWork #SoftwareEngineering #TechEgypt #CareerAdvice

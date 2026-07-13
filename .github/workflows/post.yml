@@ -1,0 +1,51 @@
+name: Post to LinkedIn
+
+on:
+  schedule:
+    # 06:05 UTC = 09:05 Cairo (Egypt summer time, UTC+3).
+    # Runs Sunday (0) and Wednesday (3). The script itself decides
+    # if something is due today, so extra runs are harmless.
+    - cron: "5 6 * * 0,3"
+  workflow_dispatch:
+    inputs:
+      post_id:
+        description: "Force-post a specific post id (leave empty to post whatever is due)"
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Post to LinkedIn
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
+        run: |
+          if [ -n "${{ github.event.inputs.post_id }}" ]; then
+            python post_to_linkedin.py --post "${{ github.event.inputs.post_id }}"
+          else
+            python post_to_linkedin.py --due
+          fi
+
+      - name: Save posted state
+        run: |
+          if [ -n "$(git status --porcelain state/)" ]; then
+            git config user.name "campaign-bot"
+            git config user.email "actions@github.com"
+            git add state/
+            git commit -m "mark post as published [skip ci]"
+            git push
+          fi

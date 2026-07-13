@@ -1,0 +1,26 @@
+Post 7 of 6. Yes, a bonus. And a confession.
+
+Everything you read in this series —
+the ideas, the designs, the captions,
+even the code that published every post at 9 AM sharp —
+
+all of it was made with AI. I was just the director.
+
+I turned the publishing part into an open-source project:
+a small bot that posts my campaign on schedule.
+Built with Claude. Runs free on GitHub Actions.
+
+Link: github.com/Hazem2911/linkedin-campaign-bot
+
+And this was my campaign message from day one:
+
+AI is not "the future". It is a fact. Here. Now. On all of us.
+If you still can't work with it, you are not early.
+You are very late.
+
+The good news? Late is not lost.
+Start today. Post 1 of this series is a good first step.
+
+So... fair play or cheating? Tell me honestly 👇
+
+#AI #ClaudeCode #OpenSource #SoftwareEngineering #TechEgypt

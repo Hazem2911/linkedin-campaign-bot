@@ -1,0 +1,20 @@
+A client once sent me this:
+
+"The app feels slow. Fix it.
+Also my cousin says we should use AI."
+
+Old me: panic.
+New me: I paste it into Claude and ask one thing:
+"What is he REALLY asking for?"
+
+The truth nobody tells juniors:
+clients don't speak requirements.
+They speak feelings.
+
+Someone has to translate.
+Now I have a translator. (see the picture)
+
+What's the strangest message a client ever sent you?
+I know you have one 👇
+
+#Clients #SoftwareEngineering #AI #Freelancing #TechEgypt
